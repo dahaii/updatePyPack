@@ -23,9 +23,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# cmd yönetici ile çalıştır 
-# "cd .." ile dizinden çıkıp "cd" ile dizine git
-# C:\Users\enesi\OneDrive - Akdeniz Üniversitesi\Masaüstü\Python>cd updatingPyPack
-# python update_packages.py
-# calıstır
